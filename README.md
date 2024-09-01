@@ -16,4 +16,4 @@
   <li>The development server will start running at port 5050</li>
 </ol>
 <br>
-<img src="https://github.com/user-attachments/assets/1efd6f4b-b1a1-4019-8e1b-5318ee8a9530">
+<img src="https://github.com/user-attachments/assets/a6640214-8954-43a7-b6f9-88e98ed42ea9">
